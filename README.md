@@ -1,4 +1,4 @@
-#6.170 Project 2: Conway's Game of Life
+#An Implementation of Conway's Game of Life
 *Joanna Han*
 
 #Design
